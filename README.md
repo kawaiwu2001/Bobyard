@@ -1,6 +1,7 @@
 # Comments Application
 
 A full-stack comments application built with React.js frontend and Django backend, using PostgreSQL as the database.
+![image](https://github.com/user-attachments/assets/2e2814ef-ba3f-48a7-b06a-60f40e06c451)
 
 ## Prerequisites
 
