@@ -1,0 +1,22 @@
+# Ignore Python virtual environments
+venv/
+__pycache__/
+db.sqlite3
+*.pyc
+*.pyo
+*.log
+
+# Ignore Django migrations
+**/migrations/
+
+# Ignore Node.js dependencies
+node_modules/
+dist/
+
+# Ignore Vite build output
+.vite/
+.vitepress/
+.DS_Store
+
+# Ignore environment files
+.env
